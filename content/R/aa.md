@@ -1,6 +1,6 @@
 ---
-title: "Giraffe 보고 연습 중인 파일 "
-date: 2018-07-09T15:03:53+09:00
+title: "my first file "
+date: 2020-07-09T15:03:53+09:00
 author: JYH
 langugae: "English"
 tags: ["practice","practice2","안녕"]
@@ -17,6 +17,7 @@ This is a.md
 {{< youtube 2xkNJL4gJ9E>}}
 
 ## Instagram short code
+### 김나정ㅎㅎ
 {{< instagram CCa9MwbniLy>}}
 
 ## Taxanomy: how to group contents together
