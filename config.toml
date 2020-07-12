@@ -3,7 +3,7 @@ theme = "hugo-theme-codex"
 
 # Override these settings with your own
 title = "Yeon-hoon"
-languageCode = "kr"
+languageCode = "en-us"
 baseURL = "https://yeonhoon.github.io/"
 copyright = "© {year}"
 
