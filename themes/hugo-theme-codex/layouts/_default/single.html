@@ -19,16 +19,16 @@
                   {{ partial "math.html" . }}
               {{ end }}
           </article>
+          
           {{ partial "tags.html" .}} {{ partial "post-pagination.html" .}}
           <script src="https://utteranc.es/client.js"
-        repo="yeonhoon/blog.comments"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
+            repo="yeonhoon/blog.comments"
+            issue-term="pathname"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
           </script>
-
-
+          
           <footer class="post__footer">
             {{ partial "social-icons.html" .}}
             <p>{{ replace .Site.Copyright "{year}" now.Year }}</p>
