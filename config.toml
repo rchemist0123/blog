@@ -8,7 +8,7 @@ baseURL = "https://yeonhoon.github.io/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
-disqusShortname = "Yeonhoon Jang"
+#disqusShortname = "Yeonhoon Jang"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 googleAnalytics = "G-1C841TNCTX" 
