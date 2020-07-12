@@ -16,9 +16,8 @@ This is a.md
 ## Youtube shortcode
 {{< youtube 2xkNJL4gJ9E>}}
 
-## Instagram short code
-### 김나정ㅎㅎ
-{{< instagram CCa9MwbniLy>}}
+shortcode에는 인스타그램, 유튜브, 트위터도 가능함.
+
 
 ## Taxanomy: how to group contents together
 taxanomy: front matter 안에 들어감
