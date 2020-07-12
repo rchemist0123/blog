@@ -1,9 +1,9 @@
 ---
-title: "my first file"
+title: "my first blogpage"
 date: 2020-07-09T15:03:53+09:00
 author: JYH
 langugae: "English"
-tags: ["practice","practice2","shit"]
+tags: ["practice","practice2","damn!"]
 --- 
 
 ##--- : frontmatter
