@@ -8,7 +8,7 @@ baseURL = "https://yeonhoon.github.io/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
-# disqusShortname = ""
+disqusShortname = "Yeonhoon Jang"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
@@ -20,8 +20,7 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  twitter = "https://twitter.com/<your handle>"
-  github = "https://github.com/<your handle>"
+  github = "https://github.com/Yeonhoon"
   email = "aidenjang94@gmail.com"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
