@@ -19,6 +19,11 @@ This is a.md
 shortcode에는 인스타그램, 유튜브, 트위터도 가능함.
 
 
+## gist 활용하기
+markdown에서도 gist 활용이 가능하다.
+{{ < gist b93c763b826d925f7be83099c0528a29 >}}
+
+
 ## Taxanomy: how to group contents together
 taxanomy: front matter 안에 들어감
 

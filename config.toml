@@ -2,8 +2,8 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
-languageCode = "en-us"
+title = "Yeon-hoon"
+languageCode = "kr"
 baseURL = "https://yeonhoon.github.io/"
 copyright = "© {year}"
 
@@ -11,7 +11,7 @@ copyright = "© {year}"
 disqusShortname = "Yeonhoon Jang"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+googleAnalytics = "G-QWHT03ES23" 
 
 # Optional params
 [params]
@@ -47,9 +47,9 @@ disqusShortname = "Yeonhoon Jang"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "home"
-  name = "home"
-  title = "home"
+  identifier = "Home"
+  name = "Home"
+  title = "Home"
   url = "/"
 
 [[menu.main]]
